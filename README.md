@@ -16,7 +16,7 @@ Ruminate Software specializes in creating intuitive, user-centric applications t
 
 Our team is dedicated to delivering high-quality solutions that meet the challenging demands of modern business environments. We pride ourselves on our client-centric approach, ensuring that every project is executed with precision and care.
 
-## Technologies Used
+## Cutting-Edge Technologies
 
 We employ a wide range of technologies to build our solutions, including:
 - **Frontend**: HTML, CSS, JavaScript, React, Angular
